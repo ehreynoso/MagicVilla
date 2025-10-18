@@ -28,8 +28,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "villaDTO",
-        "Type": "MagicVilla_API.Models.DTO.VillaDTO",
+        "Name": "createDTO",
+        "Type": "MagicVilla_API.Models.DTO.VillaCreateDTO",
         "IsRequired": true
       }
     ],
@@ -120,8 +120,8 @@
         "IsRequired": false
       },
       {
-        "Name": "villaDto",
-        "Type": "MagicVilla_API.Models.DTO.VillaDTO",
+        "Name": "updateDto",
+        "Type": "MagicVilla_API.Models.DTO.VillaUpdateDTO",
         "IsRequired": true
       }
     ],
